@@ -1,3 +1,9 @@
 # PatikaWeek1
--Kdv Tutarını Hesaplayan Program 
- PatikaWeeklyProject
+
+- Daire Dilimi Alanı
+- İşlem Öncelik
+- Kdv Tutarını Hesaplayan Program
+- Manav Tartı
+- Taksimetre
+- Üçgende Alan-Çevre Ilişkisi
+- Vücut Kitle Endeksi Hesaplanması
