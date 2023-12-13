@@ -29,10 +29,16 @@ public class Main {
             System.out.print("İşlem sonucu : " +sonuc);
             break;
           case 4:
-            sonuc = sayi1 / sayi2;
-            System.out.print("İşlem sonucu : " +sonuc);
+            if (sayi2 != 0 ) {
+              sonuc = sayi1 / sayi2;
+              System.out.print("İşlem sonucu : " + sonuc);
+            }
+            else {
+              System.out.println("Bir sayıyının 0'a bölümü tanımsızdır ! ");
+            }
             break;
           default:
+            System.out.println("Geçersiz işlem seçimi yaptınız ! ");
         }
 
     }
