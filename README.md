@@ -1,10 +1,18 @@
 # PatikaWeek1
 
-- Daire Dilimi Alanı
+- ArtikYil
+- BurcBulmak
+- CinZodyak
+- HavaSicakligiEtkinlikOnerme
 - Hesap Makinesi
-- İşlem Öncelik
-- Kdv Tutarını Hesaplayan Program
-- Manav Tartı
+- Islem_Oncelik
+- KdvTutariHesaplamak
+- KullaniciGirisi
+- ManavTarti
+- NotOrtalamasi
+- SayilariSiralamak
 - Taksimetre
-- Üçgende Alan-Çevre Ilişkisi
-- Vücut Kitle Endeksi Hesaplanması
+- UcakBiletFiyat
+- UcgendeAlan-CevreIliskisi
+- VucutKitleEndeksiHesapla
+
